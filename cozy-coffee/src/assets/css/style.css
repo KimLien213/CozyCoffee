@@ -1,0 +1,10 @@
+.v-card.borderme {
+  border: 2px solid #3a6d5b !important;
+}
+.v-card.borderout {
+  border: 1px solid #bcaaa4 !important;
+}
+#app {
+  background-image: url('~@/assets/bg.jpg');
+  background-repeat: repeat;
+}
